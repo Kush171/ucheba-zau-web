@@ -1,37 +1,31 @@
-<!DOCTYPE html>
-<html lang="ru">
-  <head><base href="/ucheba-zau-web/"><meta name="theme-color" content="#93161B"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="ЗАУ Учёба"><link rel="apple-touch-icon" href="./apple-touch-icon.png"><link rel="manifest" href="./manifest.webmanifest">
-    <meta charset="utf-8" />
-    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>ЗАУ Учёба — Заокский университет</title>
-    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
-    <style id="expo-reset">
-      /* These styles make the body full-height */
-      html,
-      body {
-        height: 100%;
-      }
-      /* These styles disable body scrolling if you are using <ScrollView> */
-      body {
-        overflow: hidden;
-      }
-      /* These styles make the root element full-height */
-      #root {
-        display: flex;
-        height: 100%;
-        flex: 1;
-      }
-    </style>
-  <link rel="shortcut icon" href="/ucheba-zau-web/favicon.ico" /></head>
-
-  <body>
-    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
-    <noscript>
-      You need to enable JavaScript to run this app.
-    </noscript>
-    <!-- The root element for your Expo app. -->
+<!doctype html>
+<html lang="ru" translate="no">
+  <head>
+    <base href="/ucheba-zau-web/">
+    <meta name="referrer" content="no-referrer">
+    <meta charset="UTF-8" />
+    <meta name="google" content="notranslate" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#93161B" />
+    <meta
+      name="description"
+      content="ЗАУ Учёба — единое учебное веб-приложение Заокского университета: расписание Пн–Пт, домашние задания, конспекты, ИИ-тренажёр, расшифровка лекций, напоминания и офлайн-чтение Синодальной Библии."
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="ЗАУ Учёба" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="icon" type="image/png" href="./favicon.png" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <title>ЗАУ Учёба — Заокский университет • 1988</title>
+    <script type="module" crossorigin src="./assets/cabinet-398bf4019f4b.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/icons-CLZZQnz2.js">
+    <link rel="modulepreload" crossorigin href="./assets/react-D7hS72C8.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-CdQoEkiS.css">
+    <link rel="stylesheet" href="./assets/web-controls-79a11379e6b7.css">
+  </head>
+  <body class="bg-[#FAF8F5] text-[#16161A] antialiased selection:bg-[#93161B]/15 selection:text-[#6B0D12]">
     <div id="root"></div>
-  <script src="/ucheba-zau-web/_expo/static/js/web/AppEntry-65aa85e4d7d2a8b1f00444d581a0d76d.js" defer></script>
-<script>window.zauOfflineState='preparing';(async function(){try{if(!('serviceWorker' in navigator))throw Error();const reg=await navigator.serviceWorker.register('./sw.js',{scope:'./',updateViaCache:'none'});const check=(ev)=>{if(ev?.target?.state==='redundant'&&!reg.active){window.zauOfflineState='unavailable';window.dispatchEvent(new Event('zau-offline'));}if(reg.waiting && reg.active && navigator.serviceWorker.controller)window.dispatchEvent(new Event('zau-update'));};reg.addEventListener('updatefound',()=>{reg.installing&&reg.installing.addEventListener('statechange',check)});check();reg.update().catch(()=>{});await navigator.serviceWorker.ready;window.zauOfflineState='ready';window.dispatchEvent(new Event('zau-offline'));}catch(e){window.zauOfflineState='unavailable';window.dispatchEvent(new Event('zau-offline'));}})();</script></body>
+  </body>
 </html>
