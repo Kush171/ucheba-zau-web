@@ -1,0 +1,640 @@
+/* Manrope — Copyright 2018 The Manrope Project Authors (https://github.com/googlefonts/manrope)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+ */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(./Manrope-3c09135e88bb.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(./Manrope-447c49583b1b.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(./Manrope-2f7335119075.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(./Manrope-8c2def024c1b.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Lora — Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name "Lora".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+ */
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url(./Lora-b67b0f50d1d0.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url(./Lora-405b30a5bea8.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url(./Lora-45f989df83f3.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url(./Lora-d824d807d4d8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(./Lora-0e523e4bc3c6.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(./Lora-c57d9ca3bd42.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(./Lora-2a2d9c22c986.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(./Lora-ddb8c6603510.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Only new web controls. The original site's responsive stylesheet is unchanged. */
+.zw-gear,
+.zw-btn,
+.zw-primary,
+.zw-close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  border-radius: 0.7rem;
+  border: 1px solid #e8e1d9;
+  background: #faf8f5;
+  color: #51484f;
+  padding: 0.46rem 0.78rem;
+  font:
+    700 0.76rem/1.45 Manrope,
+    system-ui,
+    sans-serif;
+  cursor: pointer;
+}
+.zw-gear {
+  min-height: 32px;
+  min-width: 34px;
+}
+.zw-btn:hover,
+.zw-gear:hover {
+  border-color: #c6a4a4;
+}
+.zw-primary,
+.zw-btn[aria-pressed='true'] {
+  background: #93161b;
+  border-color: #93161b;
+  color: white;
+}
+.zw-btn:disabled,
+.zw-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.zw-status,
+.zw-text-button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  text-align: inherit;
+}
+.zw-status:hover,
+.zw-text-button:hover {
+  text-decoration: underline;
+}
+.zw-dialog {
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  width: min(470px, calc(100% - 24px));
+  max-height: min(87dvh, 780px);
+  border: 1px solid #e8e1d9;
+  border-radius: 20px;
+  overflow: auto;
+  color: #16161a;
+  background: #fffefc;
+  box-shadow: 0 24px 85px #27151933;
+  padding: 0;
+  font:
+    500 14px/1.5 Manrope,
+    system-ui,
+    sans-serif;
+}
+.zw-dialog::backdrop {
+  background: #20101680;
+}
+.zw-dialog header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e8e1d9;
+  padding: 14px 20px;
+  position: sticky;
+  top: 0;
+  background: #fffefc;
+  z-index: 1;
+}
+.zw-dialog h2,
+.zw-card h3 {
+  font-size: 18px;
+  font-weight: 800;
+}
+.zw-dialog-body,
+.zw-card {
+  padding: 18px 20px;
+}
+.zw-dialog p,
+.zw-card p,
+.zw-invite p {
+  font-size: 12px;
+  color: #605c61;
+  margin: 8px 0;
+  line-height: 1.55;
+}
+.zw-dialog ul {
+  padding-inline-start: 20px;
+  list-style: disc;
+}
+.zw-close {
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  font-size: 20px;
+}
+.zw-field {
+  margin: 0 0 16px;
+  border: 0;
+  padding: 0;
+}
+.zw-field legend,
+.zw-card label,
+.zw-invite label {
+  display: block;
+  font-weight: 750;
+  font-size: 12px;
+  margin-bottom: 7px;
+}
+.zw-options,
+.zw-card form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.zw-options output {
+  padding: 4px 10px;
+  font-variant-numeric: tabular-nums;
+}
+.zw-card form {
+  align-items: flex-end;
+  gap: 10px;
+  margin: 14px 0;
+}
+.zw-card form label {
+  flex: 1 1 140px;
+  margin: 0;
+}
+.zw-card small {
+  font-size: 10px;
+  color: #93161b;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+.zw-card input,
+.zw-invite input {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  border: 1px solid #e8e1d9;
+  background: #faf8f5;
+  border-radius: 10px;
+  padding: 8px 10px;
+  margin-top: 5px;
+  color: #16161a;
+  font-size: 14px;
+}
+.zw-mark {
+  background: #f8d784;
+  color: #3e2a16;
+  border-radius: 2px;
+}
+.zw-invite {
+  text-align: center;
+  margin-top: 10px;
+  color: #81232a;
+  font-size: 11px;
+}
+.zw-invite form {
+  text-align: left;
+}
+.zw-update {
+  position: fixed;
+  z-index: 60;
+  bottom: 12px;
+  inset-inline: 12px;
+  margin: auto;
+  max-width: 590px;
+  color: #fff;
+  background: #50212d;
+  border-radius: 14px;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 13px;
+  box-shadow: 0 5px 30px #25192033;
+}
+.zw-update button {
+  flex: none;
+}
+.zw-edition-credit {
+  font-size: 10px;
+  font-weight: 500;
+  text-align: center;
+  color: #746a69;
+  padding: 5px 12px;
+}
+:where(.zw-dialog, .zw-card, .zw-invite) :is(button, a, input):focus-visible,
+.zw-status:focus-visible {
+  outline: 2px solid #b88946;
+  outline-offset: 2px;
+}
+
+/* Intermediate notebook width. Leave the original ≥64rem cabinet and touch phone alone. */
+@media screen {
+  html[data-zau-layout='compact'] .zw-auth {
+    flex-direction: row;
+  }
+  html[data-zau-layout='compact'] .zw-auth-intro {
+    display: flex;
+    flex: 0 0 43%;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 0;
+    min-height: 100vh;
+    min-height: 100dvh;
+    padding: clamp(18px, 2.9vw, 32px);
+  }
+  html[data-zau-layout='compact'] .zw-auth-story {
+    margin-block: auto;
+    padding-block: 22px;
+  }
+  html[data-zau-layout='compact'] .zw-auth-story h1 {
+    font-size: clamp(24px, 3.4vw, 34px);
+    overflow-wrap: break-word;
+  }
+  html[data-zau-layout='compact'] .zw-auth-main {
+    min-width: 0;
+    padding: clamp(16px, 3vw, 32px);
+  }
+  html[data-zau-layout='compact'] .zw-rail {
+    display: flex;
+    width: clamp(156px, 20.5vw, 202px);
+    max-height: 100dvh;
+  }
+  html[data-zau-layout='compact'] .zw-rail > .zau-hero-gradient {
+    margin: 8px;
+    padding: 12px;
+  }
+  html[data-zau-layout='compact'] .zw-rail > .zau-hero-gradient svg[width='42'] {
+    width: 31px;
+    height: 31px;
+  }
+  html[data-zau-layout='compact'] .zw-group-meta {
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  html[data-zau-layout='compact'] .zw-group-meta > .truncate {
+    white-space: normal;
+  }
+  html[data-zau-layout='compact'] .zw-rail nav {
+    padding-inline: 7px;
+    min-height: 0;
+  }
+  html[data-zau-layout='compact'] .zw-rail nav button {
+    gap: 6px;
+    padding-inline: 9px;
+  }
+  html[data-zau-layout='compact'] .zw-rail > :last-child {
+    padding: 8px;
+  }
+  html[data-zau-layout='compact']
+    :is(.zw-touch-header, .zw-touch-nav, .zw-mobile-group, .zw-pocket-books, .zw-pocket-close) {
+    display: none;
+  }
+  html[data-zau-layout='compact'] .zw-content {
+    padding: 18px clamp(12px, 1.8vw, 20px) 30px;
+    min-width: 0;
+  }
+  html[data-zau-layout='compact'] .zw-reader-title {
+    display: flex;
+  }
+  html[data-zau-layout='compact'] .zw-bookcase {
+    display: flex;
+    position: static;
+    width: clamp(238px, 30vw, 286px);
+  }
+  html[data-zau-layout='compact'] .zw-stats > * {
+    min-width: 0;
+  }
+  html[data-zau-layout='compact'] .zw-week-table {
+    min-width: 590px;
+    table-layout: fixed;
+  }
+  html[data-zau-layout='compact'] .zw-week-table :is(th, td) {
+    padding: 6px 5px;
+    overflow-wrap: anywhere;
+  }
+  html[data-zau-layout='compact'] .zw-week-table th:first-child {
+    width: 76px;
+  }
+  html[data-zau-layout='compact'] .zw-week-table th:not(:first-child) {
+    width: auto;
+  }
+  html[data-zau-layout='compact'] .zw-week-table th > div {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (min-width: 800px) {
+  html[data-zau-layout='compact'] .zw-stats {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 8px;
+  }
+  html[data-zau-layout='compact'] .zw-stats > * {
+    padding: 12px;
+  }
+  html[data-zau-layout='compact'] .zw-summary-grid {
+    grid-template-columns: minmax(0, 1.27fr) minmax(0, 1fr);
+    gap: 12px;
+  }
+  html[data-zau-layout='compact'] .zw-summary-grid > * {
+    min-width: 0;
+  }
+  html[data-zau-layout='compact'] .zw-summary-grid .zau-card {
+    padding: 14px;
+  }
+}
+@media screen and (min-width: 900px) {
+  html[data-zau-layout='compact'] .zw-study-grid {
+    grid-template-columns: minmax(150px, 1fr) minmax(0, 2.8fr);
+    gap: 12px;
+  }
+  html[data-zau-layout='compact'] .zw-study-grid > div:first-child {
+    display: none;
+  }
+  html[data-zau-layout='compact'] .zw-study-grid > aside {
+    display: block;
+    padding: 12px;
+  }
+  html[data-zau-layout='compact'] .zw-study-grid > aside > :first-child {
+    flex-wrap: wrap;
+  }
+}
+.zw-display {
+  margin-block: 0 18px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #e8e1d9;
+}
+.zw-display .zw-field {
+  margin-bottom: 4px;
+}
+
+/* Общие предметы: компактная раскрываемая карточка, без изменения сетки сайта. */
+.zw-streams{color:#373338;padding:.85rem 1.15rem;font-size:.82rem}.zw-streams summary{cursor:pointer;font-weight:800;color:#7c2024;line-height:1.7}.zw-streams summary small{float:right;color:#6b6060;font-weight:600}.zw-stream-body{display:grid;gap:.68rem;max-width:60rem;margin-top:.6rem;line-height:1.55}.zw-stream-body p{margin:0}.zw-stream-body ul{padding:0;display:grid;gap:.5rem;list-style:none}.zw-stream-body li{display:flex;gap:.65rem;align-items:baseline;flex-wrap:wrap}.zw-stream-body form{display:flex;align-items:end;gap:.65rem;flex-wrap:wrap}.zw-stream-body label{display:grid;gap:.18rem;font-weight:700}.zw-stream-body input{border:1px solid #d7cfc7;border-radius:.65rem;padding:.4rem .6rem}.zw-stream-body small{color:#625c58}.zw-stream-badge,.zw-stream-note{color:#76521e;background:#faf1de;border-radius:.45rem;padding:.16rem .45rem;font-size:.65rem;font-weight:700;overflow-wrap:anywhere}.zw-stream-note{font-size:.78rem;padding:.6rem .75rem;line-height:1.45}
+
+/* Account identity, using the original campus palette. */
+.zi-field{display:grid;gap:.38rem;color:#312c33;font-weight:700;font-size:.78rem;min-width:0}.zi-field input,.zi-field select{width:100%;min-width:0;background:#faf8f5;border:1px solid #dcd3cc;border-radius:.72rem;padding:.68rem .84rem;color:#221d23;font-weight:500;font-size:.93rem}.zi-field :focus{outline:2px solid #93161b;outline-offset:1px}.zi-field input:disabled{opacity:.7}.zi-names{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.75rem}.zi-field:only-child{width:100%}.zi-code,.zi-reminder{background:#fbf3e6;border:1px solid #ebd7ae;border-radius:1rem;padding:1rem}.zi-actions,.zi-reminder{display:flex;align-items:center;justify-content:space-between;gap:.7rem;flex-wrap:wrap}.zi-actions{margin-top:.6rem}.zi-actions button,.zi-reminder button{color:#841e29;font-size:.8rem;font-weight:750}.zi-actions button:disabled,.zi-submit:disabled{opacity:.5}.zi-reminder p,.zi-profile p{font-size:.86rem;line-height:1.45;margin:.25rem 0;color:#5c5660;overflow-wrap:anywhere}.zi-reminder button,.zi-submit{padding:.58rem .92rem;border-radius:.68rem;background:#842532;color:white;font-weight:700}.zi-profile{background:white;border:1px solid #e6ded7;border-radius:1.4rem;padding:clamp(1rem,3vw,1.5rem)}.zi-kicker{font-size:.65rem;font-weight:800;letter-spacing:.12em;color:#8b2330}.zi-profile h3{font-size:1.16rem;font-weight:800;color:#231c24}.zi-profile form{border-top:1px solid #e8e1d9;display:grid;gap:.8rem;margin-top:1rem;padding-top:1rem}.zi-submit{justify-self:start;font-size:.85rem}.zi-profile [role=alert]{color:#a01822}.zi-profile .zi-verified,.zi-profile [role=status]{color:#21694d}.zi-profile [role=alert],.zi-profile [role=status]{padding-top:.7rem}@media(max-width:370px){.zi-names{grid-template-columns:1fr}}
+
+.zw-library-scope{display:flex;flex-wrap:wrap;align-items:end;gap:.6rem 1rem;padding:.85rem 1rem;border:1px solid #e8e1d9;border-radius:14px;background:#faf8f5}.zw-library-scope label{display:grid;gap:.27rem;min-width:0;color:#49444c;font-size:.71rem;font-weight:750}.zw-library-scope select{max-width:100%;font:inherit;color:#27222a;background:white;padding:.5rem .65rem;border:1px solid #d9d1ca;border-radius:8px}.zw-library-scope p,.zw-library-count{color:#676069;font-size:.76rem;line-height:1.5}.zw-library-count{font-weight:700;margin:.7rem .25rem}
